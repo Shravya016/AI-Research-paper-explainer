@@ -17,12 +17,12 @@ An AI-powered web application that helps users understand research papers easily
 
 # Tech Stack
 
-Frontend:React
+Frontend: React
 
-Backend:Python,FastAPI
+Backend: Python,FastAPI
 
-AI / ML:LangChain,Retrieval-Augmented Generation (RAG),LLM API
+AI / ML: LangChain,Retrieval-Augmented Generation (RAG),LLM API
 
-Database:Vector database (Chroma)
+Database: Vector database (Chroma)
 
-Document Processing:PyPDF
+Document Processing: PyPDF
