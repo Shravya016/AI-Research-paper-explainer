@@ -1,8 +1,6 @@
-
 venv/
 venv311/
 env/
-.env
 *.env
 __pycache__/
 *.pyc
@@ -18,5 +16,8 @@ Thumbs.db
 node_modules/
 dist/
 build/
-
-*.log
+venv311/Include
+venv311/Lib
+venv311/Scripts
+venv311/share
+venv311/pyvenv.cfg
